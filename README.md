@@ -1,0 +1,1 @@
+# Tugas-Penyelesaian-Model-SIR-Menggunakan-Metode-Euler-
